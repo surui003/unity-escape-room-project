@@ -1,2 +1,2 @@
-Unity game programming project, 3D first person perspective escape room with lock puzzle and gameplay timer. Once the puzzle is solved, the door will open and the player can leave. Game environment consists of imported assets from Unity Learn. Includes starting menu page designed in Canva.
-Project Demo:
+First person perspective Unity 3D escape room project with gameplay timer, using imported assets for game environment. Player can interact with objects and pop-up panels to solve the puzzle and unlock the door. Starting menu page was designed for players to initiate the game.
+Project Demo: https://youtu.be/gTsz4P7Ghtg
